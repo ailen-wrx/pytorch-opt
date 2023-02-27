@@ -1,5 +1,5 @@
 # pytorch-opt
 
-dsl.py -- Domail-specific Language
+dsl.py -- Domain-specific Language
 
 ipa.py -- Inter-procedure Analysis
